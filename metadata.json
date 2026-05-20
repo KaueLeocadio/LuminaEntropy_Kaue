@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LuminaEntropy - Image Brightness Analyzer_",
+  "description": "Analise o equilíbrio de brilho de imagens usando métricas de entropia de Shannon e teoria da informação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
